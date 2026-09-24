@@ -2,7 +2,7 @@
 
 Tenho 28, cursando Analise e Desenvolvimento de Sistemas, nivel de Inglês Intermediário, concentrado em aparender tudo que envolva Desenvolvimento de sistemas e Analise de dados.
 
-- Estudando e programando em JavaScrip, Python, CSS3, TailwindCSS, SQL, Docker e aprimorando conhecimentos em Java, Node.js e React entre outros frameworks.
+- Estudando e programando em JavaScript, Python, CSS3, TailwindCSS, SQL, Docker e aprimorando conhecimentos em Java, Node.js e React entre outros frameworks.
 - Desde criança apaixonado por tecnologia, inovações e programação.
 - Buscando minha primeira oportunidade na área de programação.
 ---
