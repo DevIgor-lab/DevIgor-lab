@@ -18,7 +18,7 @@ Tenho 28, cursando Analise e Desenvolvimento de Sistemas, nivel de Inglês Inter
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=White)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Postgree](https://img.shields.io/badge/Postgree-FFCA28?style=for-the-badge&logo=postgree&logoColor=black)
+![Postgree](https://img.shields.io/badge/Postgree-FFCA28?style=for-the-badge&logo=postgree&color=blue)
 ---
 
 ---
